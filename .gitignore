@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+packages/Microsoft.AspNet.Web.Optimization.zh-Hans.1.0.0/lib/net40/zh-Hans/System.Web.Optimization.resources.dll
+*.dll
+*.nupkg
+*.pp
+*.xml
+*.ps1
+*.exe
+*.txt
+*.png
+*.css
+*.psd1
+*.psm1
